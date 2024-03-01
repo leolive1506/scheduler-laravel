@@ -22,3 +22,8 @@ class DeleteOldLogs
         // $schedule->command('inspire')->hourly();
     }
 ```
+
+# Criar comando
+```sh
+php artisan make:command StartDevelopment
+```
